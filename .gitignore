@@ -1,0 +1,13 @@
+runs/*
+!runs/originals/
+runs/originals/*
+
+uploads/*
+.DS_STORE
+!.gitkeep
+venv/
+networkx.csv
+test.csv
+.idea/
+__pycache__/
+/simulator/node_modules/
