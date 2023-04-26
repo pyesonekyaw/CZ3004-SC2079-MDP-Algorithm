@@ -170,6 +170,7 @@ I used Group 28's algorithm as a baseline, but improved it significantly. Edge c
 
 # Related Repositories
 
-- [Website](https://github.com/pyesonekyaw/MDP-Showcase)
-- [Raspberry Pi](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-RaspberryPi)
-- [Image Recognition](placeholder)
+* [Website](https://github.com/pyesonekyaw/MDP-Showcase)
+* [Simulator](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-Simulator)
+* [Raspberry Pi](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-RaspberryPi)
+* [Image Recognition](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-ImageRecognition)
